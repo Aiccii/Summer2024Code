@@ -16,7 +16,7 @@ Current Number is : 5  and the cube is 125
 Current Number is : 6  and the cube is 216
 
 """
-# ge
+
 input_number = 6
 
 res = 0
